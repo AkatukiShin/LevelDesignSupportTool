@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "LevelDesignSupportTool",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "KomiyaKousuke",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EngineVersion": "5.7.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "LevelDesignSupportTool",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
